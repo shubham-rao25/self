@@ -1,0 +1,115 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+h1{
+  margin:50px auto 0 auto ;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+}
+
+.content{
+  background-color: #ECF9FF;
+  padding-top: 8.75rem;
+  position: relative;
+
+}
+.bird{
+  position: absolute;
+  left: 59.375rem;
+  height: 3.125rem;
+  width: 3.125rem;
+}
+
+.bottom-cloud{
+  position: absolute;
+  top: 23.5rem;
+  left: 25.25rem;
+}
+.top-cloud{
+  position: absolute;
+  left: 59.775rem;
+  top:3.125rem;
+}
+.Student{
+  font-weight: bold;
+  text-decoration: line-through;
+}
+a{
+  color: #11999E
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 15%;
+  border-width: 5px;
+  border-color: powderblue;
+}
+.coder{
+  width: 25%;
+  float: left;
+
+  margin-right: 1.875rem;
+}
+.speaker{
+  width: 25%;
+  float: right;
+margin-left: 1.875rem;
+}
+.badminton{
+  width: 25%;
+  float: left;
+  margin-right: 1.875rem;
+}
+.profile-img{
+  border-radius: 100%;
+  width: 20%;
+}
+.bottom-container{
+  background-color:  #66BFBF;
+
+  margin-top: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  line-height: 2;
+  
+}
+.contact-me{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.button{
+  height: 2.5rem;
+  width: 6.8125rem;
+  border-radius: 8px;
+  background-image: linear-gradient(#11cdd4,#11999e);
+  border-style: none;
+  color: white;
+  margin-top: 1rem;
+}
+.footer-link{
+  color: #11999E
+}
